@@ -1,0 +1,224 @@
+.mod {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  width: 428px;
+  height: 926px;
+}
+.mod .entry-pic {
+  position: absolute;
+  bottom: -3px;
+  align-self: center;
+  width: 428px;
+  height: 280px;
+}
+.mod .action-bg {
+  position: relative;
+  width: 428px;
+  height: 101px;
+}
+.mod .header {
+  box-sizing: border-box;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-right: 4px;
+  padding-left: 9px;
+  width: 428px;
+  height: 42px;
+}
+.mod .bg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 428px;
+  height: 42px;
+}
+.mod .view {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 5px;
+}
+.mod .icon-orginization {
+  margin-right: 4px;
+  width: 19px;
+  height: 21px;
+}
+.mod .info {
+  margin-top: -4px;
+  line-height: 12px;
+  color: #000000;
+  font-family: PingFang SC;
+  font-size: 12px;
+  font-weight: 600;
+}
+.mod .icon-down {
+  position: relative;
+  margin-top: 1px;
+  width: 23px;
+  height: 25px;
+}
+.mod .background {
+  position: relative;
+  width: 428px;
+  height: 13px;
+}
+.mod .body {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  width: 428px;
+  height: 42px;
+}
+.mod .text-background {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 428px;
+  height: 42px;
+}
+.mod .icon-file {
+  position: relative;
+  margin-right: 4px;
+  margin-left: 9px;
+  width: 19px;
+  height: 16px;
+}
+.mod .tag {
+  position: relative;
+  margin-top: -1px;
+  line-height: 12px;
+  color: #000000;
+  font-family: PingFang SC;
+  font-size: 12px;
+  font-weight: 600;
+}
+.mod .bg-1 {
+  position: relative;
+  width: 428px;
+  height: 13px;
+}
+.mod .submain-i0 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  width: 428px;
+  height: 43px;
+}
+.mod .text-background-1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 428px;
+  height: 43px;
+}
+.mod .label {
+  position: relative;
+  margin-top: -6px;
+  margin-left: 15px;
+  max-width: 398px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 14px;
+  color: #898a8d;
+  font-family: PingFang SC;
+  font-size: 14px;
+  font-weight: 400;
+}
+.mod .main {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  width: 428px;
+  height: 268px;
+}
+.mod .layer {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 428px;
+  height: 268px;
+}
+.mod .item-long {
+  position: relative;
+  margin-top: -2px;
+  width: 185px;
+  height: 232px;
+}
+.mod .submain-i1 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  width: 428px;
+  height: 43px;
+}
+.mod .text-background-2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 428px;
+  height: 43px;
+}
+.mod .word {
+  position: relative;
+  margin-left: 15px;
+  max-width: 398px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 14px;
+  color: #898a8d;
+  font-family: PingFang SC;
+  font-size: 14px;
+  font-weight: 400;
+}
+.mod .footer {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  width: 428px;
+  height: 84px;
+  line-height: 22px;
+}
+.mod .button-bg {
+  position: absolute;
+  top: 0px;
+  align-self: center;
+  width: 428px;
+  height: 84px;
+  line-height: normalpx;
+}
+.mod .desc {
+  position: relative;
+  margin-top: 16px;
+  max-width: 416px;
+  height: 22px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #646466;
+  font-family: PingFang SC;
+  font-size: 16px;
+  font-weight: 400;
+}
+.mod .tag-1 {
+  position: relative;
+  margin-top: 8px;
+  max-width: 416px;
+  height: 22px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #5f6165;
+  font-family: PingFang SC;
+  font-size: 16px;
+  font-weight: 400;
+}

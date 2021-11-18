@@ -1,0 +1,225 @@
+/* 视觉稿宽度为 750, 请设置html的font-size为 37.5px, 以便在布局视口宽度为 375 的页面中自适应 */
+.mod {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  width: 5.71rem;
+  height: 12.35rem;
+}
+.entry-pic {
+  position: absolute;
+  bottom: -0.04rem;
+  align-self: center;
+  width: 5.71rem;
+  height: 3.73rem;
+}
+.action-bg {
+  position: relative;
+  width: 5.71rem;
+  height: 1.35rem;
+}
+.header {
+  box-sizing: border-box;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-right: 0.05rem;
+  padding-left: 0.12rem;
+  width: 5.71rem;
+  height: 0.56rem;
+}
+.bg {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  width: 5.71rem;
+  height: 0.56rem;
+}
+.view {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 0.07rem;
+}
+.icon-orginization {
+  margin-right: 0.05rem;
+  width: 0.25rem;
+  height: 0.28rem;
+}
+.info {
+  margin-top: -0.05rem;
+  line-height: 0.16rem;
+  color: #000000;
+  font-family: PingFang SC;
+  font-size: 0.16rem;
+  font-weight: 600;
+}
+.icon-down {
+  position: relative;
+  margin-top: 0.01rem;
+  width: 0.31rem;
+  height: 0.33rem;
+}
+.background {
+  position: relative;
+  width: 5.71rem;
+  height: 0.17rem;
+}
+.body {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  width: 5.71rem;
+  height: 0.56rem;
+}
+.text-background {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  width: 5.71rem;
+  height: 0.56rem;
+}
+.icon-file {
+  position: relative;
+  margin-right: 0.05rem;
+  margin-left: 0.12rem;
+  width: 0.25rem;
+  height: 0.21rem;
+}
+.tag {
+  position: relative;
+  margin-top: -0.01rem;
+  line-height: 0.16rem;
+  color: #000000;
+  font-family: PingFang SC;
+  font-size: 0.16rem;
+  font-weight: 600;
+}
+.bg-1 {
+  position: relative;
+  width: 5.71rem;
+  height: 0.17rem;
+}
+.submain-i0 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  width: 5.71rem;
+  height: 0.57rem;
+}
+.text-background-1 {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  width: 5.71rem;
+  height: 0.57rem;
+}
+.label {
+  position: relative;
+  margin-top: -0.08rem;
+  margin-left: 0.2rem;
+  max-width: 5.31rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 0.19rem;
+  color: #898a8d;
+  font-family: PingFang SC;
+  font-size: 0.19rem;
+  font-weight: 400;
+}
+.main {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  width: 5.71rem;
+  height: 3.57rem;
+}
+.layer {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  width: 5.71rem;
+  height: 3.57rem;
+}
+.item-long {
+  position: relative;
+  margin-top: -0.03rem;
+  width: 2.47rem;
+  height: 3.09rem;
+}
+.submain-i1 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  width: 5.71rem;
+  height: 0.57rem;
+}
+.text-background-2 {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  width: 5.71rem;
+  height: 0.57rem;
+}
+.word {
+  position: relative;
+  margin-left: 0.2rem;
+  max-width: 5.31rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 0.19rem;
+  color: #898a8d;
+  font-family: PingFang SC;
+  font-size: 0.19rem;
+  font-weight: 400;
+}
+.footer {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  width: 5.71rem;
+  height: 1.12rem;
+  line-height: 0.29rem;
+}
+.button-bg {
+  position: absolute;
+  top: 0rem;
+  align-self: center;
+  width: 5.71rem;
+  height: 1.12rem;
+  line-height: NaNrem;
+}
+.desc {
+  position: relative;
+  margin-top: 0.21rem;
+  max-width: 5.55rem;
+  height: 0.29rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #646466;
+  font-family: PingFang SC;
+  font-size: 0.21rem;
+  font-weight: 400;
+}
+.tag-1 {
+  position: relative;
+  margin-top: 0.11rem;
+  max-width: 5.55rem;
+  height: 0.29rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #5f6165;
+  font-family: PingFang SC;
+  font-size: 0.21rem;
+  font-weight: 400;
+}

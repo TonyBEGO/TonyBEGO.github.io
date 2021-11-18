@@ -1,0 +1,224 @@
+.mod {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  width: 57.07vw;
+  height: 123.47vw;
+}
+.mod .entry-pic {
+  position: absolute;
+  bottom: -0.4vw;
+  align-self: center;
+  width: 57.07vw;
+  height: 37.33vw;
+}
+.mod .action-bg {
+  position: relative;
+  width: 57.07vw;
+  height: 13.47vw;
+}
+.mod .header {
+  box-sizing: border-box;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-right: 0.53vw;
+  padding-left: 1.2vw;
+  width: 57.07vw;
+  height: 5.6vw;
+}
+.mod .bg {
+  position: absolute;
+  top: 0vw;
+  left: 0vw;
+  width: 57.07vw;
+  height: 5.6vw;
+}
+.mod .view {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 0.67vw;
+}
+.mod .icon-orginization {
+  margin-right: 0.53vw;
+  width: 2.53vw;
+  height: 2.8vw;
+}
+.mod .info {
+  margin-top: -0.53vw;
+  line-height: 1.6vw;
+  color: #000000;
+  font-family: PingFang SC;
+  font-size: 1.6vw;
+  font-weight: 600;
+}
+.mod .icon-down {
+  position: relative;
+  margin-top: 0.13vw;
+  width: 3.07vw;
+  height: 3.33vw;
+}
+.mod .background {
+  position: relative;
+  width: 57.07vw;
+  height: 1.73vw;
+}
+.mod .body {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  width: 57.07vw;
+  height: 5.6vw;
+}
+.mod .text-background {
+  position: absolute;
+  top: 0vw;
+  left: 0vw;
+  width: 57.07vw;
+  height: 5.6vw;
+}
+.mod .icon-file {
+  position: relative;
+  margin-right: 0.53vw;
+  margin-left: 1.2vw;
+  width: 2.53vw;
+  height: 2.13vw;
+}
+.mod .tag {
+  position: relative;
+  margin-top: -0.13vw;
+  line-height: 1.6vw;
+  color: #000000;
+  font-family: PingFang SC;
+  font-size: 1.6vw;
+  font-weight: 600;
+}
+.mod .bg-1 {
+  position: relative;
+  width: 57.07vw;
+  height: 1.73vw;
+}
+.mod .submain-i0 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  width: 57.07vw;
+  height: 5.73vw;
+}
+.mod .text-background-1 {
+  position: absolute;
+  top: 0vw;
+  left: 0vw;
+  width: 57.07vw;
+  height: 5.73vw;
+}
+.mod .label {
+  position: relative;
+  margin-top: -0.8vw;
+  margin-left: 2vw;
+  max-width: 53.07vw;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 1.87vw;
+  color: #898a8d;
+  font-family: PingFang SC;
+  font-size: 1.87vw;
+  font-weight: 400;
+}
+.mod .main {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  width: 57.07vw;
+  height: 35.73vw;
+}
+.mod .layer {
+  position: absolute;
+  top: 0vw;
+  left: 0vw;
+  width: 57.07vw;
+  height: 35.73vw;
+}
+.mod .item-long {
+  position: relative;
+  margin-top: -0.27vw;
+  width: 24.67vw;
+  height: 30.93vw;
+}
+.mod .submain-i1 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  width: 57.07vw;
+  height: 5.73vw;
+}
+.mod .text-background-2 {
+  position: absolute;
+  top: 0vw;
+  left: 0vw;
+  width: 57.07vw;
+  height: 5.73vw;
+}
+.mod .word {
+  position: relative;
+  margin-left: 2vw;
+  max-width: 53.07vw;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 1.87vw;
+  color: #898a8d;
+  font-family: PingFang SC;
+  font-size: 1.87vw;
+  font-weight: 400;
+}
+.mod .footer {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  width: 57.07vw;
+  height: 11.2vw;
+  line-height: 2.93vw;
+}
+.mod .button-bg {
+  position: absolute;
+  top: 0vw;
+  align-self: center;
+  width: 57.07vw;
+  height: 11.2vw;
+  line-height: NaNvw;
+}
+.mod .desc {
+  position: relative;
+  margin-top: 2.13vw;
+  max-width: 55.47vw;
+  height: 2.93vw;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #646466;
+  font-family: PingFang SC;
+  font-size: 2.13vw;
+  font-weight: 400;
+}
+.mod .tag-1 {
+  position: relative;
+  margin-top: 1.07vw;
+  max-width: 55.47vw;
+  height: 2.93vw;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #5f6165;
+  font-family: PingFang SC;
+  font-size: 2.13vw;
+  font-weight: 400;
+}
